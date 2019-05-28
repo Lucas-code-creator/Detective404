@@ -1,6 +1,7 @@
 # Detective404
-análisis forense
-<p>Este script creado por el grupo de desarrollo de ERROR404 viene con un conjunto de herramientas para análisis forense que estan pre instaladas en el sistema operativo Kali linux / ParrotOS Automatiza el analisis forense para la suma de informacion en oftatica informaticos or only for for that con una foto podes sacar datos muy importantes de un usuario.</p>
+Análisis forense
+<p>Este script creado por el grupo de desarrollo de ERROR404 viene con un conjunto de herramientas para análisis forense que están pre instaladas en el sistema operativo Kali Linux / ParrotOS. 
+Automatiza el análisis forense para la suma de información en oftatica informáticos or only for for that con una foto podes sacar datos muy importantes de un usuario.</p>
 
 <h1>Nuestras redes sociales</h1>
 <br>
